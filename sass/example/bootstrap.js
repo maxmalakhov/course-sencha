@@ -19,6 +19,7 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.ux.ajax.DataSimlet": [],
   "Ext.ux.grid.TransformGrid": [],
   "Ext.ux.FieldReplicator": [],
+  "HW.model.Stock": [],
   "Ext.ux.grid.filter.ListFilter": [],
   "Ext.ux.ajax.XmlSimlet": [],
   "Ext.ux.event.Driver": [],
@@ -53,6 +54,7 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.ux.event.Recorder": [],
   "Ext.ux.event.Player": [],
   "HW.view.Main": [],
+  "HW.store.Stocks": [],
   "HW.controller.Main": [],
   "Ext.ux.ajax.SimManager": [],
   "Ext.ux.grid.filter.BooleanFilter": [],
@@ -89,6 +91,7 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.ux.ajax.DataSimlet": [],
   "Ext.ux.grid.TransformGrid": [],
   "Ext.ux.FieldReplicator": [],
+  "HW.model.Stock": [],
   "Ext.ux.grid.filter.ListFilter": [
     "gridfilter.list"
   ],
@@ -148,6 +151,7 @@ Ext.ClassManager.addNameAliasMappings({
   "HW.view.Main": [
     "widget.app-main"
   ],
+  "HW.store.Stocks": [],
   "HW.controller.Main": [],
   "Ext.ux.ajax.SimManager": [],
   "Ext.ux.grid.filter.BooleanFilter": [

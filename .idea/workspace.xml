@@ -25,13 +25,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7675cbd3-981a-49a8-8bae-ce91c24963fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/8ed7ed9ff6be32b7ebeffb9dd22c58c5d6e3e8bc/Accordion.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/8ed7ed9ff6be32b7ebeffb9dd22c58c5d6e3e8bc/Accordion.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/1e82f6c87ba6a75dbc82dfa0142697767f2f71a1/Bar.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/1e82f6c87ba6a75dbc82dfa0142697767f2f71a1/Bar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/5312b81cbc7ad44808760b33ae0b1f9149be1b5e/Bar.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/5312b81cbc7ad44808760b33ae0b1f9149be1b5e/Bar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/20de3b195dd8da97c46dbc2b3cf4244e2a87ccd0/Base.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/20de3b195dd8da97c46dbc2b3cf4244e2a87ccd0/Base.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/8ed7ed9ff6be32b7ebeffb9dd22c58c5d6e3e8bc/Border.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/8ed7ed9ff6be32b7ebeffb9dd22c58c5d6e3e8bc/Border.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/dd2b9c300fd98ca90846f75d6d4841c405249b5c/BoundList.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/dd2b9c300fd98ca90846f75d6d4841c405249b5c/BoundList.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/bf093eb0760590160c4e2b759427a41722d93fa9/Button.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/bf093eb0760590160c4e2b759427a41722d93fa9/Button.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/eb7e7d101423e0427b856eb12eaa8035527d9785/Button.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/eb7e7d101423e0427b856eb12eaa8035527d9785/Button.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/2042509b3a7f35fb6b3b02b98c5dbed5a1ec72d1/ButtonGroup.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/2042509b3a7f35fb6b3b02b98c5dbed5a1ec72d1/ButtonGroup.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/a4597adbd8edd72c2f2f69191be604f749940443/ButtonGroup.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/a4597adbd8edd72c2f2f69191be604f749940443/ButtonGroup.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/b5e4e01fde2e1e8261f6fb223488284c367cefa0/CheckboxGroup.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/b5e4e01fde2e1e8261f6fb223488284c367cefa0/CheckboxGroup.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/b84811e7449be28391fe6a9139ada3ccb66003e2/Container.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/b84811e7449be28391fe6a9139ada3ccb66003e2/Container.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/4167ba20acc1d7fe35153ae03904e20a93a9b6d3/Date.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/4167ba20acc1d7fe35153ae03904e20a93a9b6d3/Date.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/26a421e5241201f15aa00b5ce28720e3f0855c5f/FieldSet.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/26a421e5241201f15aa00b5ce28720e3f0855c5f/FieldSet.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/df6ed51ae0a0f1007d88802d6d75053e2af175dc/Grouping.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/df6ed51ae0a0f1007d88802d6d75053e2af175dc/Grouping.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/2f60e71c737834b44941505b24e626622cfc536c/HW-all.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/2f60e71c737834b44941505b24e626622cfc536c/HW-all.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/f42213b33fdbebab83f4ac664ba0de390ee19b47/LoadMask.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/f42213b33fdbebab83f4ac664ba0de390ee19b47/LoadMask.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/b87ea2256bfe82209801b9c489e58cf848fc6728/Menu.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/b87ea2256bfe82209801b9c489e58cf848fc6728/Menu.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/ba64b2867163434672fa6d942528071f17c9582f/Menu.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/ba64b2867163434672fa6d942528071f17c9582f/Menu.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/4f42e528d560962c9ccb408e542928fcb97aab88/Panel.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/4f42e528d560962c9ccb408e542928fcb97aab88/Panel.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/b57799c8977a059f2df5210c3ae4a0635ba3ca79/Panel.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/b57799c8977a059f2df5210c3ae4a0635ba3ca79/Panel.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/f42213b33fdbebab83f4ac664ba0de390ee19b47/ProgressBar.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/f42213b33fdbebab83f4ac664ba0de390ee19b47/ProgressBar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/1e82f6c87ba6a75dbc82dfa0142697767f2f71a1/Tab.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/1e82f6c87ba6a75dbc82dfa0142697767f2f71a1/Tab.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/5312b81cbc7ad44808760b33ae0b1f9149be1b5e/Tab.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/5312b81cbc7ad44808760b33ae0b1f9149be1b5e/Tab.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/4f42e528d560962c9ccb408e542928fcb97aab88/Table.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/4f42e528d560962c9ccb408e542928fcb97aab88/Table.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/87cc904fd4a53b3e6fafe844d8b8e416995f1e9f/Tip.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/87cc904fd4a53b3e6fafe844d8b8e416995f1e9f/Tip.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/f15df92db5a758de86d7cbe436525361269288d7/Tip.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/f15df92db5a758de86d7cbe436525361269288d7/Tip.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/2451fb42e4e3093ab0003cf9882804fc18fbf5a4/Toolbar.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/2451fb42e4e3093ab0003cf9882804fc18fbf5a4/Toolbar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/799be99c6dd1cb6fe7ebb7122871318439336b30/Toolbar.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/799be99c6dd1cb6fe7ebb7122871318439336b30/Toolbar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/a76d70016b2019185a0c24abbb640f953352bc42/Window.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/a76d70016b2019185a0c24abbb640f953352bc42/Window.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/ce79d66bef2d6ed59b8ccb67a5c9b76168681a63/Window.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/ce79d66bef2d6ed59b8ccb67a5c9b76168681a63/Window.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/1c0eb3869769a0e1df5445c8bfa1eb80afafcf5f/background-gradient.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/1c0eb3869769a0e1df5445c8bfa1eb80afafcf5f/background-gradient.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/HW-all.scss" afterPath="$PROJECT_DIR$/build/HW/production/HW-all.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/HW-example.scss" afterPath="$PROJECT_DIR$/build/HW/production/HW-example.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/2f60e71c737834b44941505b24e626622cfc536c/HW-example.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/2f60e71c737834b44941505b24e626622cfc536c/HW-example.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/082cb3ba424ecee6e191d02ec3d739fb3aa0d21f/RowEditing.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/082cb3ba424ecee6e191d02ec3d739fb3aa0d21f/RowEditing.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/.sass-cache/c4c0b2ec74bc7ae28a419468d132cf80b1ff22de/RowEditing.scssc" afterPath="$PROJECT_DIR$/build/HW/production/.sass-cache/c4c0b2ec74bc7ae28a419468d132cf80b1ff22de/RowEditing.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/HW/production/all-classes.js" afterPath="$PROJECT_DIR$/build/HW/production/all-classes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/example/bootstrap.js" afterPath="$PROJECT_DIR$/sass/example/bootstrap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homework.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Stocks.js" changelist="7675cbd3-981a-49a8-8bae-ce91c24963fa" time="1380320635118" ignored="false" />
     <file path="/application.js" changelist="7675cbd3-981a-49a8-8bae-ce91c24963fa" time="1380321252787" ignored="false" />
-    <file path="/Dummy.txt" changelist="7675cbd3-981a-49a8-8bae-ce91c24963fa" time="1380322086638" ignored="false" />
+    <file path="/Dummy.txt" changelist="7675cbd3-981a-49a8-8bae-ce91c24963fa" time="1380322456188" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +152,7 @@
       <file leaf-file-name="application.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.1369863">
+            <state line="18" column="47" selection-start="373" selection-end="373" vertical-scroll-proportion="0.30821916">
               <folding />
             </state>
           </provider>
@@ -388,42 +427,46 @@
       <created>1380321996695</created>
       <updated>1380321996695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Configured VCS.">
+      <created>1380322473873</created>
+      <updated>1380322473873</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -547,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.1369863">
+        <state line="18" column="47" selection-start="373" selection-end="373" vertical-scroll-proportion="0.30821916">
           <folding />
         </state>
       </provider>
